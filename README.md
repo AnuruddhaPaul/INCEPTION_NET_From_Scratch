@@ -50,7 +50,7 @@ Clone the repository and install dependencies:
 git clone [https://github.com/your-username/googlenet-mnist-scratch.git](https://github.com/your-username/googlenet-mnist-scratch.git)
 cd googlenet-mnist-scratch
 pip install torch torchvision
-
+```
 
 ## 📜 References
 * **Primary Paper:** Szegedy, C., Liu, W., Jia, Y., Sermanet, P., Reed, S., Anguelov, D., ... & Rabinovich, A. (2015). [Going deeper with convolutions](https://arxiv.org/abs/1409.4842). *Proceedings of the IEEE conference on computer vision and pattern recognition*, 1-9.
